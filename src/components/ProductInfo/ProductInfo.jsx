@@ -1,17 +1,13 @@
-
+import './ProductInfo.css'
 
 const ProductInfo = () => {
   return (
-    <div>
-        <h1>ProductInfo</h1>
-        <p>Lorem ipsum dolor sit amet consectetur
-             adipisicing elit. Quidem asperiores
-              quis perferendis molestias laudantium
-               repellendus temporibus in omnis vel
-                voluptatibus illum a fugiat, ab 
-                aliquid? Quam aliquam temporibus 
-                at ad.</p>
-        <p>$100</p>
+    <div className='product-info'>
+        <h1>LeFleur shoes</h1>
+        <h2>$100</h2>
+        <p>Just the finest pair of
+          shoes you'll ever see.</p>
+        
         
         
         
